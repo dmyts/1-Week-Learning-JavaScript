@@ -20,3 +20,24 @@ console.log(`Nama saya ${name1}, umur saya ${age1} tahun.`);
 let str = "100";
 let num = Number(str);
 let strNum = String(num);
+
+// Exercise
+// Exercise 1
+let nama = "Dana Raga";
+let umur = 16;
+let sekolah = "SMKN 1 Ciomas";
+let kelas = 11;
+let jurusan = "PPLG";
+console.log(`Halo, perkenalkan nama saya ${nama}, umur saya ${umur} tahun. Saya bersekolah di ${sekolah}, kelas ${kelas} jurusan ${jurusan}.`);
+
+// Exercise 2
+let a = 5;
+let b = 10;
+let addition = a + b;
+let subtraction = a - b;
+let multiplication = a * b;
+let division = a / b;
+console.log(`Tambah: ${addition}`);
+console.log(`Kurang: ${subtraction}`);
+console.log(`Kali: ${multiplication}`);
+console.log(`Bagi: ${division}`);
