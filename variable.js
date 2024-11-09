@@ -10,3 +10,8 @@ let isStudent = true; // Boolean
 let score = null; // Null
 let grade; // Undefined
 let user = {name: "Dana", age: 16}; // Object
+
+// Use of Literal Templates
+let name1 = "Dana";
+let age1 = 16;
+console.log(`Nama saya ${name1}, umur saya ${age1} tahun.`);
