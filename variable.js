@@ -22,7 +22,9 @@ let num = Number(str);
 let strNum = String(num);
 
 // Exercise
-// Exercise 1
+/* Exercise 1 : 
+Declare several variables (name, age, school, class, major) and display them in sentences using literal templates.
+*/
 let nama = "Dana Raga";
 let umur = 16;
 let sekolah = "SMKN 1 Ciomas";
@@ -30,7 +32,9 @@ let kelas = 11;
 let jurusan = "PPLG";
 console.log(`Halo, perkenalkan nama saya ${nama}, umur saya ${umur} tahun. Saya bersekolah di ${sekolah}, kelas ${kelas} jurusan ${jurusan}.`);
 
-// Exercise 2
+/* Exercise 2: 
+Create a simple calculator that adds, subtracts, multiplies, and divides two numbers, stores the results in variables, and then displays the results in the console.
+*/
 let a = 5;
 let b = 10;
 let addition = a + b;
