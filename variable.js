@@ -45,3 +45,11 @@ console.log(`Tambah: ${addition}`);
 console.log(`Kurang: ${subtraction}`);
 console.log(`Kali: ${multiplication}`);
 console.log(`Bagi: ${division}`);
+
+// Challange: Calculate Age in Days
+// Deklarasikan variabel age untuk usia seseorang, lalu buat program untuk menghitung usia tersebut dalam hari (asumsi 1 tahun = 365 hari).
+
+let person = "Dana";
+let personAge = 16;
+let personAgeInDays = personAge * 365;
+console.log(`Usia ${person} adalah ${personAge} tahun atau sama dengan ${personAgeInDays} hari`);
