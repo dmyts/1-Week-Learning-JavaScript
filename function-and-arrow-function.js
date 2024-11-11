@@ -21,4 +21,10 @@ const greet2 = (name2) => {
 }
 
 console.log(greet2("Raga"));
+/* If there is only one parameter and one statement,
+the brackets and {} can be omitted: */
+
+const greet3 = name3 => `Hai, my name is ${name3}`;
+console.log(greet3("Danaraga"));
+
 
