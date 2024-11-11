@@ -27,4 +27,16 @@ the brackets and {} can be omitted: */
 const greet3 = name3 => `Hai, my name is ${name3}`;
 console.log(greet3("Danaraga"));
 
+// Challange: Create a Function to Calculate the Area of ​​a Square
+/* Create two versions of the calculateArea function to calculate the area of ​​a square, one with a function declaration and one with an arrow function */
+
+// With Function Declaration
+function calculateArea(side) {
+  return side * side;
+}
+console.log(calculateArea(4));
+
+// With Arrow Function
+const calculateArea1 = side1 => side1 * side1;
+console.log(calculateArea1(10));
 
