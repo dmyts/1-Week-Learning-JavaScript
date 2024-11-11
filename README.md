@@ -1,18 +1,18 @@
 # 1 Week Learning JavaScript
 
-Sabtu-Minggu
+Senin-Selasa
 - Variabel (let, const)
 - Functions & arrow functions
 - Objects & arrays
 - Latihan: Membuat fungsi pengolah data
 
-Senin-Selasa
+Rabu-Kamis
 - Destructuring
 - Spread/rest operator
 - Array methods (map, filter, reduce)
 - Latihan: Data manipulation dengan ES6
 
-Rabu-Jumat
+Jumat-Minggu
 - Classes
 - Modules (import/export)
 - Mini project: Class-based data manager
