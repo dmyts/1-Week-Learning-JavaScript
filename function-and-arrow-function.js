@@ -13,3 +13,12 @@ const greet1 = function(name1) {
 }
 
 console.log(greet1("Dana"));
+
+// Arrow Function
+
+const greet2 = (name2) => {
+  return `Hello, my name is ${name2}`;
+}
+
+console.log(greet2("Raga"));
+
