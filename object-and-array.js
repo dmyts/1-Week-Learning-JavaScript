@@ -1,6 +1,6 @@
 // Learning about Object and Array in JavaScript
 
-// Const
+// Make Object
 const person = {
   name: "Dana Raga",
   age: 16,
