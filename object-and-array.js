@@ -15,3 +15,21 @@ console.log(person.greet()); // Output: Hello, my name is Dana Raga
 
 person.school = "Vocational High School";
 person.age = 17;
+
+// Array
+let fruits = [
+  "Apple",
+  "Banana",
+  "Grape"
+];
+
+console.log(fruits[0]); // Output: Apple
+console.log(fruits.length); // Output: 3
+
+// Adding Elements
+fruits.push = "Orange";
+fruits.unshift = "Pear";
+
+// Deleting Element
+fruits.pop();
+fruits.shift();
