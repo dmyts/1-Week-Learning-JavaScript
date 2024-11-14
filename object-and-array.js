@@ -33,3 +33,13 @@ fruits.unshift = "Pear";
 // Deleting Element
 fruits.pop();
 fruits.shift();
+
+// Array of Objects
+const students = [
+  { name: "Dana Raga", age: 16 },
+  { name: "Aufa", age: 16 },
+  { name: "Fathan", age: 16 },
+];
+
+console.log(students[1].name); // Output: Aufa
+
